@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">Dump</string>
+    <string name="menu">Menu</string>
+    <string name="notification">Notification</string>
+
 </resources>
